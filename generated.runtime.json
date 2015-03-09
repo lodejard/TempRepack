@@ -1,0 +1,1756 @@
+{
+  "runtimes": {
+    "any": {
+      "#import": []
+    },
+    "win7": {
+      "#import": [
+        "any"
+      ]
+    },
+    "win7-x86": {
+      "#import": [
+        "win7"
+      ],
+      "runtime.api.ms.win.base.util.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.base.util.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.com.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.com.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.com.private.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.com.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.comm.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.comm.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.console.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.console.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.console.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.console.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.datetime.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.datetime.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.datetime.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.datetime.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.debug.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.debug.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.debug.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.debug.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.delayload.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.delayload.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.errorhandling.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.errorhandling.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.errorhandling.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.errorhandling.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.fibers.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.fibers.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.fibers.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.fibers.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.file.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.file.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.2.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.file.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.file.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l2.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.file.l2.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.handle.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.handle.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.heap.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.heap.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.heap.obsolete.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.heap.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.interlocked.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.interlocked.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.io.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.io.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.io.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.io.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.legacy.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.2.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.legacy.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.private.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.2.dll": {
+        "runtime.win7.x86.api.ms.win.core.kernel32.private.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.libraryloader.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.libraryloader.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.libraryloader.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.libraryloader.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.localization.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l1.2.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.localization.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.localization.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.obsolete.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.localization.obsolete.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.memory.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.memory.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.2.dll": {
+        "runtime.win7.x86.api.ms.win.core.memory.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.3.dll": {
+        "runtime.win7.x86.api.ms.win.core.memory.l1.1.3.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.namedpipe.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.namedpipe.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.normalization.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.normalization.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.privateprofile.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.privateprofile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.privateprofile.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.privateprofile.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processenvironment.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.processenvironment.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processenvironment.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.processenvironment.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processsecurity.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.processsecurity.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.processthreads.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.processthreads.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.2.dll": {
+        "runtime.win7.x86.api.ms.win.core.processthreads.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processtopology.obsolete.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.processtopology.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.profile.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.profile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.ansi.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.psapi.ansi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.psapi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.obsolete.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.psapi.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.realtime.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.realtime.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.registry.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.registry.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.registry.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.registry.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.rtlsupport.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.rtlsupport.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shlwapi.legacy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.shlwapi.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shlwapi.obsolete.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.shlwapi.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shutdown.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.shutdown.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shutdown.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.shutdown.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.string.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.string.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.obsolete.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.string.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.obsolete.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.string.obsolete.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringansi.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.stringansi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringloader.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.stringloader.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringloader.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.stringloader.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.synch.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.synch.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.synch.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.synch.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.sysinfo.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.sysinfo.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.sysinfo.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.2.dll": {
+        "runtime.win7.x86.api.ms.win.core.sysinfo.l1.2.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.3.dll": {
+        "runtime.win7.x86.api.ms.win.core.sysinfo.l1.2.3.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.l1.2.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.threadpool.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.legacy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.threadpool.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.private.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.threadpool.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.timezone.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.timezone.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.url.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.url.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.util.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.util.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.version.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.version.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.error.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.error.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.error.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.error.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.registration.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.registration.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.robuffer.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.robuffer.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.roparameterizediid.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.roparameterizediid.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.string.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.winrt.string.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.wow64.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.wow64.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.xstate.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.xstate.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.xstate.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.core.xstate.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.devices.config.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.devices.config.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.devices.config.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.devices.config.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.classicprovider.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventing.classicprovider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.consumer.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventing.consumer.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.controller.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventing.controller.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.legacy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventing.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.provider.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventing.provider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventlog.legacy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.eventlog.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.ro.typeresolution.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.ro.typeresolution.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.base.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.base.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.cryptoapi.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.cryptoapi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsalookup.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.lsalookup.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsalookup.l2.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.security.lsalookup.l2.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsapolicy.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.lsapolicy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.provider.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.provider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.sddl.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.security.sddl.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.core.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.service.core.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.core.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.service.core.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.management.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.service.management.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.management.l2.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.service.management.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.private.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.service.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.private.l1.1.1.dll": {
+        "runtime.win7.x86.api.ms.win.service.private.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.winsvc.l1.1.0.dll": {
+        "runtime.win7.x86.api.ms.win.service.winsvc.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.clrcompression.dll": {
+        "runtime.win7.x86.clrcompression.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.clretwrc.dll": {
+        "runtime.win7.x86.clretwrc.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.coreclr.dll": {
+        "runtime.win7.x86.coreclr.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.dbgshim.dll": {
+        "runtime.win7.x86.dbgshim.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.ext.ms.win.advapi32.encryptedfile.l1.1.0.dll": {
+        "runtime.win7.x86.ext.ms.win.advapi32.encryptedfile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.InterfaceProxy": {
+        "runtime.win7.x86.Internal.InterfaceProxy": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.Runtime.Uri": {
+        "runtime.win7.x86.Internal.Runtime.Uri": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.Uri": {
+        "runtime.win7.x86.Internal.Uri": "1.0.0-beta4-10311"
+      },
+      "Microsoft.CSharp": {
+        "runtime.win7.x86.Microsoft.CSharp": "1.0.0-beta4-10311"
+      },
+      "Microsoft.VisualBasic": {
+        "runtime.win7.x86.Microsoft.VisualBasic": "1.0.0-beta4-10311"
+      },
+      "Microsoft.Win32.Primitives": {
+        "runtime.win7.x86.Microsoft.Win32.Primitives": "1.0.0-beta4-10311"
+      },
+      "runtime.Microsoft.Win32.Registry.AccessControl": {
+        "runtime.win7.x86.Microsoft.Win32.Registry.AccessControl": "1.0.0-beta4-10311"
+      },
+      "Microsoft.Win32.Registry": {
+        "runtime.win7.x86.Microsoft.Win32.Registry": "1.0.0-beta4-10311"
+      },
+      "runtime.mscordaccore.dll": {
+        "runtime.win7.x86.mscordaccore.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscordbi.dll": {
+        "runtime.win7.x86.mscordbi.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorlib": {
+        "runtime.win7.x86.mscorlib": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorrc.debug.dll": {
+        "runtime.win7.x86.mscorrc.debug.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorrc.dll": {
+        "runtime.win7.x86.mscorrc.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.Networking": {
+        "runtime.win7.x86.Networking": "1.0.0-beta4-10311"
+      },
+      "runtime.sni.dll": {
+        "runtime.win7.x86.sni.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.sos.dll": {
+        "runtime.win7.x86.sos.dll": "1.0.0-beta4-10311"
+      },
+      "System.AppContext": {
+        "runtime.win7.x86.System.AppContext": "1.0.0-beta4-10311"
+      },
+      "System.Collections.Concurrent": {
+        "runtime.win7.x86.System.Collections.Concurrent": "1.0.0-beta4-10311"
+      },
+      "System.Collections": {
+        "runtime.win7.x86.System.Collections": "1.0.0-beta4-10311"
+      },
+      "System.Collections.NonGeneric": {
+        "runtime.win7.x86.System.Collections.NonGeneric": "1.0.0-beta4-10311"
+      },
+      "System.Collections.Specialized": {
+        "runtime.win7.x86.System.Collections.Specialized": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.Annotations": {
+        "runtime.win7.x86.System.ComponentModel.Annotations": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel": {
+        "runtime.win7.x86.System.ComponentModel": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.EventBasedAsync": {
+        "runtime.win7.x86.System.ComponentModel.EventBasedAsync": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.Primitives": {
+        "runtime.win7.x86.System.ComponentModel.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.TypeConverter": {
+        "runtime.win7.x86.System.ComponentModel.TypeConverter": "1.0.0-beta4-10311"
+      },
+      "System.Console": {
+        "runtime.win7.x86.System.Console": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Core": {
+        "runtime.win7.x86.System.Core": "1.0.0-beta4-10311"
+      },
+      "System.Data.Common": {
+        "runtime.win7.x86.System.Data.Common": "1.0.0-beta4-10311"
+      },
+      "System.Data.SqlClient": {
+        "runtime.win7.x86.System.Data.SqlClient": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Contracts": {
+        "runtime.win7.x86.System.Diagnostics.Contracts": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Debug": {
+        "runtime.win7.x86.System.Diagnostics.Debug": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.FileVersionInfo": {
+        "runtime.win7.x86.System.Diagnostics.FileVersionInfo": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Process": {
+        "runtime.win7.x86.System.Diagnostics.Process": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.TextWriterTraceListener": {
+        "runtime.win7.x86.System.Diagnostics.TextWriterTraceListener": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Tools": {
+        "runtime.win7.x86.System.Diagnostics.Tools": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.TraceSource": {
+        "runtime.win7.x86.System.Diagnostics.TraceSource": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Tracing": {
+        "runtime.win7.x86.System.Diagnostics.Tracing": "1.0.0-beta4-10311"
+      },
+      "runtime.System": {
+        "runtime.win7.x86.System": "1.0.0-beta4-10311"
+      },
+      "System.Dynamic.Runtime": {
+        "runtime.win7.x86.System.Dynamic.Runtime": "1.0.0-beta4-10311"
+      },
+      "System.Globalization.Calendars": {
+        "runtime.win7.x86.System.Globalization.Calendars": "1.0.0-beta4-10311"
+      },
+      "System.Globalization": {
+        "runtime.win7.x86.System.Globalization": "1.0.0-beta4-10311"
+      },
+      "System.Globalization.Extensions": {
+        "runtime.win7.x86.System.Globalization.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.IO.Compression": {
+        "runtime.win7.x86.System.IO.Compression": "1.0.0-beta4-10311"
+      },
+      "System.IO.Compression.ZipFile": {
+        "runtime.win7.x86.System.IO.Compression.ZipFile": "1.0.0-beta4-10311"
+      },
+      "System.IO": {
+        "runtime.win7.x86.System.IO": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.AccessControl": {
+        "runtime.win7.x86.System.IO.FileSystem.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem": {
+        "runtime.win7.x86.System.IO.FileSystem": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.DriveInfo": {
+        "runtime.win7.x86.System.IO.FileSystem.DriveInfo": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.Primitives": {
+        "runtime.win7.x86.System.IO.FileSystem.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.Watcher": {
+        "runtime.win7.x86.System.IO.FileSystem.Watcher": "1.0.0-beta4-10311"
+      },
+      "System.IO.MemoryMappedFiles": {
+        "runtime.win7.x86.System.IO.MemoryMappedFiles": "1.0.0-beta4-10311"
+      },
+      "System.IO.Pipes": {
+        "runtime.win7.x86.System.IO.Pipes": "1.0.0-beta4-10311"
+      },
+      "System.IO.UnmanagedMemoryStream": {
+        "runtime.win7.x86.System.IO.UnmanagedMemoryStream": "1.0.0-beta4-10311"
+      },
+      "System.Linq": {
+        "runtime.win7.x86.System.Linq": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Expressions": {
+        "runtime.win7.x86.System.Linq.Expressions": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Parallel": {
+        "runtime.win7.x86.System.Linq.Parallel": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Queryable": {
+        "runtime.win7.x86.System.Linq.Queryable": "1.0.0-beta4-10311"
+      },
+      "System.Net.Http": {
+        "runtime.win7.x86.System.Net.Http": "1.0.0-beta4-10311"
+      },
+      "System.Net.Http.WinHttpHandler": {
+        "runtime.win7.x86.System.Net.Http.WinHttpHandler": "1.0.0-beta4-10311"
+      },
+      "System.Net.NameResolution": {
+        "runtime.win7.x86.System.Net.NameResolution": "1.0.0-beta4-10311"
+      },
+      "System.Net.NetworkInformation": {
+        "runtime.win7.x86.System.Net.NetworkInformation": "1.0.0-beta4-10311"
+      },
+      "System.Net.Primitives": {
+        "runtime.win7.x86.System.Net.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Net.Security": {
+        "runtime.win7.x86.System.Net.Security": "1.0.0-beta4-10311"
+      },
+      "System.Net.Sockets": {
+        "runtime.win7.x86.System.Net.Sockets": "1.0.0-beta4-10311"
+      },
+      "System.Net.Utilities": {
+        "runtime.win7.x86.System.Net.Utilities": "1.0.0-beta4-10311"
+      },
+      "System.Net.WebHeaderCollection": {
+        "runtime.win7.x86.System.Net.WebHeaderCollection": "1.0.0-beta4-10311"
+      },
+      "System.ObjectModel": {
+        "runtime.win7.x86.System.ObjectModel": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Private.DataContractSerialization": {
+        "runtime.win7.x86.System.Private.DataContractSerialization": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Private.ServiceModel": {
+        "runtime.win7.x86.System.Private.ServiceModel": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Reflection.DispatchProxy": {
+        "runtime.win7.x86.System.Reflection.DispatchProxy": "1.0.0-beta4-10311"
+      },
+      "System.Reflection": {
+        "runtime.win7.x86.System.Reflection": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit": {
+        "runtime.win7.x86.System.Reflection.Emit": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit.ILGeneration": {
+        "runtime.win7.x86.System.Reflection.Emit.ILGeneration": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit.Lightweight": {
+        "runtime.win7.x86.System.Reflection.Emit.Lightweight": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Extensions": {
+        "runtime.win7.x86.System.Reflection.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Primitives": {
+        "runtime.win7.x86.System.Reflection.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.TypeExtensions": {
+        "runtime.win7.x86.System.Reflection.TypeExtensions": "1.0.0-beta4-10311"
+      },
+      "System.Resources.ResourceManager": {
+        "runtime.win7.x86.System.Resources.ResourceManager": "1.0.0-beta4-10311"
+      },
+      "System.Resources.ResourceWriter": {
+        "runtime.win7.x86.System.Resources.ResourceWriter": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.CompilerServices.VisualC": {
+        "runtime.win7.x86.System.Runtime.CompilerServices.VisualC": "1.0.0-beta4-10311"
+      },
+      "System.Runtime": {
+        "runtime.win7.x86.System.Runtime": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Extensions": {
+        "runtime.win7.x86.System.Runtime.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Handles": {
+        "runtime.win7.x86.System.Runtime.Handles": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.InteropServices": {
+        "runtime.win7.x86.System.Runtime.InteropServices": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Runtime.InteropServices.WindowsRuntime": {
+        "runtime.win7.x86.System.Runtime.InteropServices.WindowsRuntime": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Loader": {
+        "runtime.win7.x86.System.Runtime.Loader": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Numerics": {
+        "runtime.win7.x86.System.Runtime.Numerics": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Json": {
+        "runtime.win7.x86.System.Runtime.Serialization.Json": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Primitives": {
+        "runtime.win7.x86.System.Runtime.Serialization.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Xml": {
+        "runtime.win7.x86.System.Runtime.Serialization.Xml": "1.0.0-beta4-10311"
+      },
+      "System.Security.AccessControl": {
+        "runtime.win7.x86.System.Security.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.Security.Claims": {
+        "runtime.win7.x86.System.Security.Claims": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.DeriveBytes": {
+        "runtime.win7.x86.System.Security.Cryptography.DeriveBytes": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encoding": {
+        "runtime.win7.x86.System.Security.Cryptography.Encoding": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encryption.Aes": {
+        "runtime.win7.x86.System.Security.Cryptography.Encryption.Aes": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encryption": {
+        "runtime.win7.x86.System.Security.Cryptography.Encryption": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Hashing.Algorithms": {
+        "runtime.win7.x86.System.Security.Cryptography.Hashing.Algorithms": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Hashing": {
+        "runtime.win7.x86.System.Security.Cryptography.Hashing": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.RandomNumberGenerator": {
+        "runtime.win7.x86.System.Security.Cryptography.RandomNumberGenerator": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.RSA": {
+        "runtime.win7.x86.System.Security.Cryptography.RSA": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.X509Certificates": {
+        "runtime.win7.x86.System.Security.Cryptography.X509Certificates": "1.0.0-beta4-10311"
+      },
+      "System.Security.Principal": {
+        "runtime.win7.x86.System.Security.Principal": "1.0.0-beta4-10311"
+      },
+      "System.Security.Principal.Windows": {
+        "runtime.win7.x86.System.Security.Principal.Windows": "1.0.0-beta4-10311"
+      },
+      "System.Security.SecureString": {
+        "runtime.win7.x86.System.Security.SecureString": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Duplex": {
+        "runtime.win7.x86.System.ServiceModel.Duplex": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Http": {
+        "runtime.win7.x86.System.ServiceModel.Http": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.NetTcp": {
+        "runtime.win7.x86.System.ServiceModel.NetTcp": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Primitives": {
+        "runtime.win7.x86.System.ServiceModel.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Security": {
+        "runtime.win7.x86.System.ServiceModel.Security": "1.0.0-beta4-10311"
+      },
+      "System.ServiceProcess.ServiceController": {
+        "runtime.win7.x86.System.ServiceProcess.ServiceController": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding.CodePages": {
+        "runtime.win7.x86.System.Text.Encoding.CodePages": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding": {
+        "runtime.win7.x86.System.Text.Encoding": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding.Extensions": {
+        "runtime.win7.x86.System.Text.Encoding.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Text.RegularExpressions": {
+        "runtime.win7.x86.System.Text.RegularExpressions": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Threading.AccessControl": {
+        "runtime.win7.x86.System.Threading.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.Threading": {
+        "runtime.win7.x86.System.Threading": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Overlapped": {
+        "runtime.win7.x86.System.Threading.Overlapped": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Tasks": {
+        "runtime.win7.x86.System.Threading.Tasks": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Tasks.Parallel": {
+        "runtime.win7.x86.System.Threading.Tasks.Parallel": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Thread": {
+        "runtime.win7.x86.System.Threading.Thread": "1.0.0-beta4-10311"
+      },
+      "System.Threading.ThreadPool": {
+        "runtime.win7.x86.System.Threading.ThreadPool": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Timer": {
+        "runtime.win7.x86.System.Threading.Timer": "1.0.0-beta4-10311"
+      },
+      "System.Xml.ReaderWriter": {
+        "runtime.win7.x86.System.Xml.ReaderWriter": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XDocument": {
+        "runtime.win7.x86.System.Xml.XDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XmlDocument": {
+        "runtime.win7.x86.System.Xml.XmlDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XmlSerializer": {
+        "runtime.win7.x86.System.Xml.XmlSerializer": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath": {
+        "runtime.win7.x86.System.Xml.XPath": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath.XDocument": {
+        "runtime.win7.x86.System.Xml.XPath.XDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath.XmlDocument": {
+        "runtime.win7.x86.System.Xml.XPath.XmlDocument": "1.0.0-beta4-10311"
+      }
+    },
+    "win7-amd64": {
+      "#import": [
+        "win7"
+      ],
+      "runtime.api.ms.win.base.util.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.base.util.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.com.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.com.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.com.private.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.com.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.comm.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.comm.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.console.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.console.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.console.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.console.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.datetime.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.datetime.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.datetime.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.datetime.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.debug.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.debug.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.debug.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.debug.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.delayload.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.delayload.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.errorhandling.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.errorhandling.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.errorhandling.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.errorhandling.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.fibers.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.fibers.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.fibers.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.fibers.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.file.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.file.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l1.2.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.file.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.file.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.file.l2.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.file.l2.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.handle.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.handle.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.heap.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.heap.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.heap.obsolete.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.heap.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.interlocked.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.interlocked.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.io.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.io.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.io.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.io.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.legacy.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.2.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.legacy.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.private.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.kernel32.private.l1.1.2.dll": {
+        "runtime.win7.amd64.api.ms.win.core.kernel32.private.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.libraryloader.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.libraryloader.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.libraryloader.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.libraryloader.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.localization.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l1.2.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.localization.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.localization.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.localization.obsolete.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.localization.obsolete.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.memory.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.memory.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.2.dll": {
+        "runtime.win7.amd64.api.ms.win.core.memory.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.memory.l1.1.3.dll": {
+        "runtime.win7.amd64.api.ms.win.core.memory.l1.1.3.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.namedpipe.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.namedpipe.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.normalization.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.normalization.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.privateprofile.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.privateprofile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.privateprofile.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.privateprofile.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processenvironment.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processenvironment.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processenvironment.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processenvironment.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processsecurity.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processsecurity.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processthreads.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processthreads.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processthreads.l1.1.2.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processthreads.l1.1.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.processtopology.obsolete.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.processtopology.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.profile.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.profile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.ansi.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.psapi.ansi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.psapi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.psapi.obsolete.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.psapi.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.realtime.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.realtime.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.registry.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.registry.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.registry.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.registry.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.rtlsupport.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.rtlsupport.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shlwapi.legacy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.shlwapi.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shlwapi.obsolete.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.shlwapi.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shutdown.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.shutdown.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.shutdown.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.shutdown.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.string.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.string.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.obsolete.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.string.obsolete.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.string.obsolete.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.string.obsolete.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringansi.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.stringansi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringloader.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.stringloader.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.stringloader.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.stringloader.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.synch.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.synch.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.synch.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.synch.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.sysinfo.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.sysinfo.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.sysinfo.l1.2.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.2.dll": {
+        "runtime.win7.amd64.api.ms.win.core.sysinfo.l1.2.2.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.sysinfo.l1.2.3.dll": {
+        "runtime.win7.amd64.api.ms.win.core.sysinfo.l1.2.3.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.l1.2.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.threadpool.l1.2.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.legacy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.threadpool.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.threadpool.private.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.threadpool.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.timezone.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.timezone.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.url.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.url.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.util.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.util.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.version.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.version.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.error.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.error.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.error.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.error.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.registration.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.registration.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.robuffer.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.robuffer.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.roparameterizediid.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.roparameterizediid.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.winrt.string.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.winrt.string.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.wow64.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.wow64.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.xstate.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.xstate.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.core.xstate.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.core.xstate.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.devices.config.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.devices.config.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.devices.config.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.devices.config.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.classicprovider.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventing.classicprovider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.consumer.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventing.consumer.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.controller.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventing.controller.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.legacy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventing.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventing.provider.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventing.provider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.eventlog.legacy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.eventlog.legacy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.ro.typeresolution.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.ro.typeresolution.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.base.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.base.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.cryptoapi.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.cryptoapi.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsalookup.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.lsalookup.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsalookup.l2.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.security.lsalookup.l2.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.lsapolicy.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.lsapolicy.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.provider.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.provider.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.security.sddl.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.security.sddl.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.core.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.service.core.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.core.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.service.core.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.management.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.service.management.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.management.l2.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.service.management.l2.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.private.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.service.private.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.private.l1.1.1.dll": {
+        "runtime.win7.amd64.api.ms.win.service.private.l1.1.1.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.api.ms.win.service.winsvc.l1.1.0.dll": {
+        "runtime.win7.amd64.api.ms.win.service.winsvc.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.clrcompression.dll": {
+        "runtime.win7.amd64.clrcompression.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.clretwrc.dll": {
+        "runtime.win7.amd64.clretwrc.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.coreclr.dll": {
+        "runtime.win7.amd64.coreclr.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.dbgshim.dll": {
+        "runtime.win7.amd64.dbgshim.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.ext.ms.win.advapi32.encryptedfile.l1.1.0.dll": {
+        "runtime.win7.amd64.ext.ms.win.advapi32.encryptedfile.l1.1.0.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.InterfaceProxy": {
+        "runtime.win7.amd64.Internal.InterfaceProxy": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.Runtime.Uri": {
+        "runtime.win7.amd64.Internal.Runtime.Uri": "1.0.0-beta4-10311"
+      },
+      "runtime.Internal.Uri": {
+        "runtime.win7.amd64.Internal.Uri": "1.0.0-beta4-10311"
+      },
+      "Microsoft.CSharp": {
+        "runtime.win7.amd64.Microsoft.CSharp": "1.0.0-beta4-10311"
+      },
+      "Microsoft.VisualBasic": {
+        "runtime.win7.amd64.Microsoft.VisualBasic": "1.0.0-beta4-10311"
+      },
+      "Microsoft.Win32.Primitives": {
+        "runtime.win7.amd64.Microsoft.Win32.Primitives": "1.0.0-beta4-10311"
+      },
+      "runtime.Microsoft.Win32.Registry.AccessControl": {
+        "runtime.win7.amd64.Microsoft.Win32.Registry.AccessControl": "1.0.0-beta4-10311"
+      },
+      "Microsoft.Win32.Registry": {
+        "runtime.win7.amd64.Microsoft.Win32.Registry": "1.0.0-beta4-10311"
+      },
+      "runtime.mscordaccore.dll": {
+        "runtime.win7.amd64.mscordaccore.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscordbi.dll": {
+        "runtime.win7.amd64.mscordbi.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorlib": {
+        "runtime.win7.amd64.mscorlib": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorrc.debug.dll": {
+        "runtime.win7.amd64.mscorrc.debug.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.mscorrc.dll": {
+        "runtime.win7.amd64.mscorrc.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.Networking": {
+        "runtime.win7.amd64.Networking": "1.0.0-beta4-10311"
+      },
+      "runtime.sni.dll": {
+        "runtime.win7.amd64.sni.dll": "1.0.0-beta4-10311"
+      },
+      "runtime.sos.dll": {
+        "runtime.win7.amd64.sos.dll": "1.0.0-beta4-10311"
+      },
+      "System.AppContext": {
+        "runtime.win7.amd64.System.AppContext": "1.0.0-beta4-10311"
+      },
+      "System.Collections.Concurrent": {
+        "runtime.win7.amd64.System.Collections.Concurrent": "1.0.0-beta4-10311"
+      },
+      "System.Collections": {
+        "runtime.win7.amd64.System.Collections": "1.0.0-beta4-10311"
+      },
+      "System.Collections.NonGeneric": {
+        "runtime.win7.amd64.System.Collections.NonGeneric": "1.0.0-beta4-10311"
+      },
+      "System.Collections.Specialized": {
+        "runtime.win7.amd64.System.Collections.Specialized": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.Annotations": {
+        "runtime.win7.amd64.System.ComponentModel.Annotations": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel": {
+        "runtime.win7.amd64.System.ComponentModel": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.EventBasedAsync": {
+        "runtime.win7.amd64.System.ComponentModel.EventBasedAsync": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.Primitives": {
+        "runtime.win7.amd64.System.ComponentModel.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.ComponentModel.TypeConverter": {
+        "runtime.win7.amd64.System.ComponentModel.TypeConverter": "1.0.0-beta4-10311"
+      },
+      "System.Console": {
+        "runtime.win7.amd64.System.Console": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Core": {
+        "runtime.win7.amd64.System.Core": "1.0.0-beta4-10311"
+      },
+      "System.Data.Common": {
+        "runtime.win7.amd64.System.Data.Common": "1.0.0-beta4-10311"
+      },
+      "System.Data.SqlClient": {
+        "runtime.win7.amd64.System.Data.SqlClient": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Contracts": {
+        "runtime.win7.amd64.System.Diagnostics.Contracts": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Debug": {
+        "runtime.win7.amd64.System.Diagnostics.Debug": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.FileVersionInfo": {
+        "runtime.win7.amd64.System.Diagnostics.FileVersionInfo": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Process": {
+        "runtime.win7.amd64.System.Diagnostics.Process": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.TextWriterTraceListener": {
+        "runtime.win7.amd64.System.Diagnostics.TextWriterTraceListener": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Tools": {
+        "runtime.win7.amd64.System.Diagnostics.Tools": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.TraceSource": {
+        "runtime.win7.amd64.System.Diagnostics.TraceSource": "1.0.0-beta4-10311"
+      },
+      "System.Diagnostics.Tracing": {
+        "runtime.win7.amd64.System.Diagnostics.Tracing": "1.0.0-beta4-10311"
+      },
+      "runtime.System": {
+        "runtime.win7.amd64.System": "1.0.0-beta4-10311"
+      },
+      "System.Dynamic.Runtime": {
+        "runtime.win7.amd64.System.Dynamic.Runtime": "1.0.0-beta4-10311"
+      },
+      "System.Globalization.Calendars": {
+        "runtime.win7.amd64.System.Globalization.Calendars": "1.0.0-beta4-10311"
+      },
+      "System.Globalization": {
+        "runtime.win7.amd64.System.Globalization": "1.0.0-beta4-10311"
+      },
+      "System.Globalization.Extensions": {
+        "runtime.win7.amd64.System.Globalization.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.IO.Compression": {
+        "runtime.win7.amd64.System.IO.Compression": "1.0.0-beta4-10311"
+      },
+      "System.IO.Compression.ZipFile": {
+        "runtime.win7.amd64.System.IO.Compression.ZipFile": "1.0.0-beta4-10311"
+      },
+      "System.IO": {
+        "runtime.win7.amd64.System.IO": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.AccessControl": {
+        "runtime.win7.amd64.System.IO.FileSystem.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem": {
+        "runtime.win7.amd64.System.IO.FileSystem": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.DriveInfo": {
+        "runtime.win7.amd64.System.IO.FileSystem.DriveInfo": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.Primitives": {
+        "runtime.win7.amd64.System.IO.FileSystem.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.IO.FileSystem.Watcher": {
+        "runtime.win7.amd64.System.IO.FileSystem.Watcher": "1.0.0-beta4-10311"
+      },
+      "System.IO.MemoryMappedFiles": {
+        "runtime.win7.amd64.System.IO.MemoryMappedFiles": "1.0.0-beta4-10311"
+      },
+      "System.IO.Pipes": {
+        "runtime.win7.amd64.System.IO.Pipes": "1.0.0-beta4-10311"
+      },
+      "System.IO.UnmanagedMemoryStream": {
+        "runtime.win7.amd64.System.IO.UnmanagedMemoryStream": "1.0.0-beta4-10311"
+      },
+      "System.Linq": {
+        "runtime.win7.amd64.System.Linq": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Expressions": {
+        "runtime.win7.amd64.System.Linq.Expressions": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Parallel": {
+        "runtime.win7.amd64.System.Linq.Parallel": "1.0.0-beta4-10311"
+      },
+      "System.Linq.Queryable": {
+        "runtime.win7.amd64.System.Linq.Queryable": "1.0.0-beta4-10311"
+      },
+      "System.Net.Http": {
+        "runtime.win7.amd64.System.Net.Http": "1.0.0-beta4-10311"
+      },
+      "System.Net.Http.WinHttpHandler": {
+        "runtime.win7.amd64.System.Net.Http.WinHttpHandler": "1.0.0-beta4-10311"
+      },
+      "System.Net.NameResolution": {
+        "runtime.win7.amd64.System.Net.NameResolution": "1.0.0-beta4-10311"
+      },
+      "System.Net.NetworkInformation": {
+        "runtime.win7.amd64.System.Net.NetworkInformation": "1.0.0-beta4-10311"
+      },
+      "System.Net.Primitives": {
+        "runtime.win7.amd64.System.Net.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Net.Security": {
+        "runtime.win7.amd64.System.Net.Security": "1.0.0-beta4-10311"
+      },
+      "System.Net.Sockets": {
+        "runtime.win7.amd64.System.Net.Sockets": "1.0.0-beta4-10311"
+      },
+      "System.Net.Utilities": {
+        "runtime.win7.amd64.System.Net.Utilities": "1.0.0-beta4-10311"
+      },
+      "System.Net.WebHeaderCollection": {
+        "runtime.win7.amd64.System.Net.WebHeaderCollection": "1.0.0-beta4-10311"
+      },
+      "System.ObjectModel": {
+        "runtime.win7.amd64.System.ObjectModel": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Private.DataContractSerialization": {
+        "runtime.win7.amd64.System.Private.DataContractSerialization": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Private.ServiceModel": {
+        "runtime.win7.amd64.System.Private.ServiceModel": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Reflection.DispatchProxy": {
+        "runtime.win7.amd64.System.Reflection.DispatchProxy": "1.0.0-beta4-10311"
+      },
+      "System.Reflection": {
+        "runtime.win7.amd64.System.Reflection": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit": {
+        "runtime.win7.amd64.System.Reflection.Emit": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit.ILGeneration": {
+        "runtime.win7.amd64.System.Reflection.Emit.ILGeneration": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Emit.Lightweight": {
+        "runtime.win7.amd64.System.Reflection.Emit.Lightweight": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Extensions": {
+        "runtime.win7.amd64.System.Reflection.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.Primitives": {
+        "runtime.win7.amd64.System.Reflection.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Reflection.TypeExtensions": {
+        "runtime.win7.amd64.System.Reflection.TypeExtensions": "1.0.0-beta4-10311"
+      },
+      "System.Resources.ResourceManager": {
+        "runtime.win7.amd64.System.Resources.ResourceManager": "1.0.0-beta4-10311"
+      },
+      "System.Resources.ResourceWriter": {
+        "runtime.win7.amd64.System.Resources.ResourceWriter": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.CompilerServices.VisualC": {
+        "runtime.win7.amd64.System.Runtime.CompilerServices.VisualC": "1.0.0-beta4-10311"
+      },
+      "System.Runtime": {
+        "runtime.win7.amd64.System.Runtime": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Extensions": {
+        "runtime.win7.amd64.System.Runtime.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Handles": {
+        "runtime.win7.amd64.System.Runtime.Handles": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.InteropServices": {
+        "runtime.win7.amd64.System.Runtime.InteropServices": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Runtime.InteropServices.WindowsRuntime": {
+        "runtime.win7.amd64.System.Runtime.InteropServices.WindowsRuntime": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Loader": {
+        "runtime.win7.amd64.System.Runtime.Loader": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Numerics": {
+        "runtime.win7.amd64.System.Runtime.Numerics": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Json": {
+        "runtime.win7.amd64.System.Runtime.Serialization.Json": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Primitives": {
+        "runtime.win7.amd64.System.Runtime.Serialization.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.Runtime.Serialization.Xml": {
+        "runtime.win7.amd64.System.Runtime.Serialization.Xml": "1.0.0-beta4-10311"
+      },
+      "System.Security.AccessControl": {
+        "runtime.win7.amd64.System.Security.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.Security.Claims": {
+        "runtime.win7.amd64.System.Security.Claims": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.DeriveBytes": {
+        "runtime.win7.amd64.System.Security.Cryptography.DeriveBytes": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encoding": {
+        "runtime.win7.amd64.System.Security.Cryptography.Encoding": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encryption.Aes": {
+        "runtime.win7.amd64.System.Security.Cryptography.Encryption.Aes": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Encryption": {
+        "runtime.win7.amd64.System.Security.Cryptography.Encryption": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Hashing.Algorithms": {
+        "runtime.win7.amd64.System.Security.Cryptography.Hashing.Algorithms": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.Hashing": {
+        "runtime.win7.amd64.System.Security.Cryptography.Hashing": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.RandomNumberGenerator": {
+        "runtime.win7.amd64.System.Security.Cryptography.RandomNumberGenerator": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.RSA": {
+        "runtime.win7.amd64.System.Security.Cryptography.RSA": "1.0.0-beta4-10311"
+      },
+      "System.Security.Cryptography.X509Certificates": {
+        "runtime.win7.amd64.System.Security.Cryptography.X509Certificates": "1.0.0-beta4-10311"
+      },
+      "System.Security.Principal": {
+        "runtime.win7.amd64.System.Security.Principal": "1.0.0-beta4-10311"
+      },
+      "System.Security.Principal.Windows": {
+        "runtime.win7.amd64.System.Security.Principal.Windows": "1.0.0-beta4-10311"
+      },
+      "System.Security.SecureString": {
+        "runtime.win7.amd64.System.Security.SecureString": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Duplex": {
+        "runtime.win7.amd64.System.ServiceModel.Duplex": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Http": {
+        "runtime.win7.amd64.System.ServiceModel.Http": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.NetTcp": {
+        "runtime.win7.amd64.System.ServiceModel.NetTcp": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Primitives": {
+        "runtime.win7.amd64.System.ServiceModel.Primitives": "1.0.0-beta4-10311"
+      },
+      "System.ServiceModel.Security": {
+        "runtime.win7.amd64.System.ServiceModel.Security": "1.0.0-beta4-10311"
+      },
+      "System.ServiceProcess.ServiceController": {
+        "runtime.win7.amd64.System.ServiceProcess.ServiceController": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding.CodePages": {
+        "runtime.win7.amd64.System.Text.Encoding.CodePages": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding": {
+        "runtime.win7.amd64.System.Text.Encoding": "1.0.0-beta4-10311"
+      },
+      "System.Text.Encoding.Extensions": {
+        "runtime.win7.amd64.System.Text.Encoding.Extensions": "1.0.0-beta4-10311"
+      },
+      "System.Text.RegularExpressions": {
+        "runtime.win7.amd64.System.Text.RegularExpressions": "1.0.0-beta4-10311"
+      },
+      "runtime.System.Threading.AccessControl": {
+        "runtime.win7.amd64.System.Threading.AccessControl": "1.0.0-beta4-10311"
+      },
+      "System.Threading": {
+        "runtime.win7.amd64.System.Threading": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Overlapped": {
+        "runtime.win7.amd64.System.Threading.Overlapped": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Tasks": {
+        "runtime.win7.amd64.System.Threading.Tasks": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Tasks.Parallel": {
+        "runtime.win7.amd64.System.Threading.Tasks.Parallel": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Thread": {
+        "runtime.win7.amd64.System.Threading.Thread": "1.0.0-beta4-10311"
+      },
+      "System.Threading.ThreadPool": {
+        "runtime.win7.amd64.System.Threading.ThreadPool": "1.0.0-beta4-10311"
+      },
+      "System.Threading.Timer": {
+        "runtime.win7.amd64.System.Threading.Timer": "1.0.0-beta4-10311"
+      },
+      "System.Xml.ReaderWriter": {
+        "runtime.win7.amd64.System.Xml.ReaderWriter": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XDocument": {
+        "runtime.win7.amd64.System.Xml.XDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XmlDocument": {
+        "runtime.win7.amd64.System.Xml.XmlDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XmlSerializer": {
+        "runtime.win7.amd64.System.Xml.XmlSerializer": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath": {
+        "runtime.win7.amd64.System.Xml.XPath": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath.XDocument": {
+        "runtime.win7.amd64.System.Xml.XPath.XDocument": "1.0.0-beta4-10311"
+      },
+      "System.Xml.XPath.XmlDocument": {
+        "runtime.win7.amd64.System.Xml.XPath.XmlDocument": "1.0.0-beta4-10311"
+      }
+    },
+    "win8": {
+      "#import": [
+        "win7"
+      ],
+      "runtime.api.ms.win.base.util.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.com.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.com.private.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.comm.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.console.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.console.l2.1.0.dll": {},
+      "runtime.api.ms.win.core.datetime.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.datetime.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.debug.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.debug.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.delayload.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.errorhandling.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.errorhandling.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.fibers.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.fibers.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.file.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.file.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.file.l1.2.1.dll": {},
+      "runtime.api.ms.win.core.file.l2.1.0.dll": {},
+      "runtime.api.ms.win.core.file.l2.1.1.dll": {},
+      "runtime.api.ms.win.core.handle.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.heap.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.heap.obsolete.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.interlocked.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.io.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.io.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.kernel32.legacy.l1.1.2.dll": {},
+      "runtime.api.ms.win.core.kernel32.private.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.kernel32.private.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.kernel32.private.l1.1.2.dll": {},
+      "runtime.api.ms.win.core.libraryloader.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.libraryloader.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.localization.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.localization.l1.2.1.dll": {},
+      "runtime.api.ms.win.core.localization.l2.1.0.dll": {},
+      "runtime.api.ms.win.core.localization.obsolete.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.memory.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.memory.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.memory.l1.1.2.dll": {},
+      "runtime.api.ms.win.core.memory.l1.1.3.dll": {},
+      "runtime.api.ms.win.core.namedpipe.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.normalization.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.privateprofile.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.privateprofile.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.processenvironment.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.processenvironment.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.processsecurity.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.processthreads.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.processthreads.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.processthreads.l1.1.2.dll": {},
+      "runtime.api.ms.win.core.processtopology.obsolete.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.profile.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.psapi.ansi.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.psapi.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.psapi.obsolete.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.realtime.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.registry.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.registry.l2.1.0.dll": {},
+      "runtime.api.ms.win.core.rtlsupport.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.shlwapi.legacy.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.shlwapi.obsolete.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.shutdown.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.shutdown.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.string.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.string.l2.1.0.dll": {},
+      "runtime.api.ms.win.core.string.obsolete.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.string.obsolete.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.stringansi.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.stringloader.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.stringloader.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.synch.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.synch.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.sysinfo.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.sysinfo.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.sysinfo.l1.2.1.dll": {},
+      "runtime.api.ms.win.core.sysinfo.l1.2.2.dll": {},
+      "runtime.api.ms.win.core.sysinfo.l1.2.3.dll": {},
+      "runtime.api.ms.win.core.threadpool.l1.2.0.dll": {},
+      "runtime.api.ms.win.core.threadpool.legacy.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.threadpool.private.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.timezone.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.url.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.util.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.version.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.error.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.error.l1.1.1.dll": {},
+      "runtime.api.ms.win.core.winrt.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.registration.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.robuffer.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.roparameterizediid.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.winrt.string.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.wow64.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.xstate.l1.1.0.dll": {},
+      "runtime.api.ms.win.core.xstate.l2.1.0.dll": {},
+      "runtime.api.ms.win.devices.config.l1.1.0.dll": {},
+      "runtime.api.ms.win.devices.config.l1.1.1.dll": {},
+      "runtime.api.ms.win.eventing.classicprovider.l1.1.0.dll": {},
+      "runtime.api.ms.win.eventing.consumer.l1.1.0.dll": {},
+      "runtime.api.ms.win.eventing.controller.l1.1.0.dll": {},
+      "runtime.api.ms.win.eventing.legacy.l1.1.0.dll": {},
+      "runtime.api.ms.win.eventing.provider.l1.1.0.dll": {},
+      "runtime.api.ms.win.eventlog.legacy.l1.1.0.dll": {},
+      "runtime.api.ms.win.ro.typeresolution.l1.1.0.dll": {},
+      "runtime.api.ms.win.security.base.l1.1.0.dll": {},
+      "runtime.api.ms.win.security.cryptoapi.l1.1.0.dll": {},
+      "runtime.api.ms.win.security.lsalookup.l2.1.0.dll": {},
+      "runtime.api.ms.win.security.lsalookup.l2.1.1.dll": {},
+      "runtime.api.ms.win.security.lsapolicy.l1.1.0.dll": {},
+      "runtime.api.ms.win.security.provider.l1.1.0.dll": {},
+      "runtime.api.ms.win.security.sddl.l1.1.0.dll": {},
+      "runtime.api.ms.win.service.core.l1.1.0.dll": {},
+      "runtime.api.ms.win.service.core.l1.1.1.dll": {},
+      "runtime.api.ms.win.service.management.l1.1.0.dll": {},
+      "runtime.api.ms.win.service.management.l2.1.0.dll": {},
+      "runtime.api.ms.win.service.private.l1.1.0.dll": {},
+      "runtime.api.ms.win.service.private.l1.1.1.dll": {},
+      "runtime.api.ms.win.service.winsvc.l1.1.0.dll": {}
+    },
+    "win8-x86": {
+      "#import": [
+        "win8",
+        "win7-x86"
+      ]
+    },
+    "win8-amd64": {
+      "#import": [
+        "win8",
+        "win7-amd64"
+      ]
+    },
+    "uap10": {
+      "#import": [
+        "win8"
+      ]
+    },
+    "uap10-x86": {
+      "#import": [
+        "uap10",
+        "win8-x86"
+      ]
+    },
+    "uap10-amd64": {
+      "#import": [
+        "uap10",
+        "win8-amd64"
+      ]
+    },
+    "win7-aot": {
+      "#import": [
+        "win7"
+      ]
+    },
+    "win7-x86-aot": {
+      "#import": [
+        "win7-aot",
+        "win7-x86"
+      ]
+    },
+    "win7-amd64-aot": {
+      "#import": [
+        "win7-aot",
+        "win7-amd64"
+      ]
+    },
+    "win8-aot": {
+      "#import": [
+        "win8",
+        "win7-aot"
+      ]
+    },
+    "win8-x86-aot": {
+      "#import": [
+        "win8-aot",
+        "win8-x86",
+        "win7-x86-aot"
+      ]
+    },
+    "win8-amd64-aot": {
+      "#import": [
+        "win8-aot",
+        "win8-amd64",
+        "win7-amd64-aot"
+      ]
+    },
+    "uap10-aot": {
+      "#import": [
+        "uap10",
+        "win8-aot"
+      ]
+    },
+    "uap10-x86-aot": {
+      "#import": [
+        "uap10-aot",
+        "uap10-x86",
+        "win8-x86-aot"
+      ]
+    },
+    "uap10-amd64-aot": {
+      "#import": [
+        "uap10-aot",
+        "uap10-amd64",
+        "win8-amd64-aot"
+      ]
+    }
+  }
+}

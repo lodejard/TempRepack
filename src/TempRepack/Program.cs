@@ -157,6 +157,35 @@ namespace TempRepack
                 Path.Combine("Data", "runtime.json"),
                 runtimeFile);
 
+            var lineupId = "Microsoft.Baseline";
+            var lineupVersion = "1.0.0-beta1-10000";
+
+            Directory.CreateDirectory(
+                Path.Combine("Data", "Build", "Lineup", lineupId, lineupVersion));
+
+            runtimeFileFormatter.WriteRuntimeFile(
+                Path.Combine("Data", "Build", "Lineup", lineupId, lineupVersion, "runtime.json"),
+                runtimeFile);
+
+            var nuspecTemplate = @"<?xml version=""1.0""?>
+<package xmlns=""http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd"">
+  <metadata>
+    <id>{0}</id>
+    <version>{1}</version>
+    <title>{0}</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://go.microsoft.com/fwlink/?LinkId=329770</licenseUrl>
+    <iconUrl>http://go.microsoft.com/fwlink/?LinkID=288859</iconUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>{0}</description>
+    <copyright>Copyright © Microsoft Corporation</copyright>
+  </metadata>
+</package>
+";
+            File.WriteAllText(
+                Path.Combine("Data", "Build", "Lineup", lineupId, lineupVersion, lineupId + ".nuspec"),
+                string.Format(nuspecTemplate, lineupId, lineupVersion));
 
             return;
             foreach (var lib in libs.Values
